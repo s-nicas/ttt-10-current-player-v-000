@@ -1,4 +1,4 @@
 def turn_count
  count = 0 
- count.each 
+ count.each{|turn| 
 end   
